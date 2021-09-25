@@ -1,0 +1,179 @@
+body{
+    border:0;
+    padding:0;
+    
+ }
+ #my-navigation{
+  
+  border:none;
+  width:100%;
+  position:absolute;
+  z-index:10;
+  background-color:transparent;
+  
+ }
+ #my-navigation .navbar-toggle{
+    display:block;
+    border:none;
+
+    
+}
+#my-navigation .navbar-toggle:hover{
+    background:none;
+    cursor:pointer;
+}
+#my-navigation .navbar-header{
+    float:none;
+}
+#my-navigation .navbar-right{
+    float:left !important;
+}
+#my-navigation .icon-bar-left{
+    float:left;
+    
+}
+#my-navigation .icon-bar{
+    background-color: white;
+}
+#my-navigation .icon-right{
+    float:right;
+    position:relative;
+    top:-1px;
+    padding-left:10px;
+    color:white;
+}
+#my-navigation .navbar-brand,#my-navigation ul li a{
+    color:white;
+}
+.my-container{
+    padding:0;
+    color:#fff;
+}
+.section-1 button{
+    width:180px;
+    height:50px;
+    color:white;
+    margin-bottom: 30px;
+}
+.section-1{
+    background-image:linear-gradient(to bottom,rgb(24, 24, 23),rgba(37, 37, 36, 0.849),transparent),url("../image1/hero.jpg");
+    background-size:100% 100%;
+   
+
+   
+}
+
+
+.middle{
+    overflow:hidden;
+}
+.main h1{
+    color:white;
+    padding-top:70px;
+}
+.main p{
+    color:white;
+    padding-bottom:40px;
+
+}
+.main img{
+    padding-bottom:90px;
+}
+.mobile img {
+    width:720px;
+    height:520px;
+    max-height:550px;
+    max-height:550px;
+    padding-top:20px;
+    float:right;
+
+   
+}
+.lap{
+    color:white;
+    padding:30px 0px;
+
+
+}
+.lap p{
+    padding:20px 0px;
+}
+.middle{
+    line-height:25px;
+    background-image: linear-gradient(to right,rgb(158, 158, 30),rgb(182, 182, 41));
+}
+.middle button{
+    width:180px;
+    height:50px;
+    background-color:transparent;
+    border:solid 2px white;
+}
+.doggy{
+    background-image: url("../image1/tBG01.jpg");
+    background-size: 100% 100%;
+    padding:50px;
+    color:white;
+  
+}
+.doggy h1{
+    font-size:25px;
+    font-family:serif, Geneva, Tahoma, sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold',
+}
+.white{
+    color:rgb(0, 0, 0);
+    
+}
+.white h5{
+    padding:30px 0px 20px 0px;
+
+}
+.orange {
+    line-height:25px;
+    background-image:linear-gradient(to right,rgb(224, 14, 77),rgba(224, 21, 21, 0.904));
+}
+.orange p{
+    line-height:25px;
+}
+.orange h5,.orange p{
+    color:#ffff;
+}
+ 
+.orange button{
+    margin-left:20px;
+    margin-bottom: 50px;
+    width:150px;
+    background-color: yellowgreen;
+}
+.xylo .pink{
+    width:100%;
+    height:200px;
+    background-color: tomato;
+}
+
+.meduim{
+   
+    padding:30px 0px;
+}
+
+.xylo .h5{
+    color:grey;
+    padding:0px 30px 10px 10px;
+   
+}
+
+.pink-2{
+    width:100%;
+    height:200px;
+    background-color: rgb(180, 170, 36);
+}
+
+.xylo p{
+    color:rgb(5, 161, 18);
+}
+
+.footer-1{
+    background-image: linear-gradient(to right,rgba(6, 245, 105, 0.74),rgba(190, 190, 31, 0.801));
+   padding:40px;
+   color:white;
+   line-height:25px;
+}
